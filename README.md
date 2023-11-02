@@ -21,7 +21,7 @@ I've been a 'hobbyist programmer' since I was a young teen, building text-based 
 Decentralization, AI, and my experiences with GPT-4. I love discussing AI best practices, prompting, and just generally being in awe of how far AI has come.
 
 ### 📫 **How to Reach Me** 
-[LinkedIn](https://www.linkedin.com/in/sam-patterson-0943901b/) | 📧 Email: [git@sampatt.com](mailto:git@sampatt.com)
+[LinkedIn](https://www.linkedin.com/in/sampatt-dev/) | 📧 Email: [git@sampatt.com](mailto:git@sampatt.com)
 
 
 ### ⚡ **Fun Facts**: 
