@@ -9,7 +9,7 @@ I've always have one foot in the tech world - working on technology policy in DC
   - [Close Encounters of the Cute Kind](https://github.com/SamPatt/close-encounters-of-the-cute-kind): A game built in a week that blends classic maze navigation with a space theme, leveraging AI assets.
 
 ### 🌱 **Currently Learning** 
-I'm honing my skills in JavaScript, soon diving into Python. I'm well-versed with Git, GitHub, and Linux. I've also become friends with the OpenAI API recently, and can't wait for DALL-3 API access.
+I'm honing my skills in JavaScript, soon diving into Python. I'm well-versed with Git, GitHub, and Linux. I've also become friends with the OpenAI API recently - their DevDays announcements were exciting (DALL-E 3 API, hurray)!
 
 ### 👯 **Collaboration Interests** 
 Amateur radio and decentralization projects. I have prior experience working on decentralization with [OpenBazaar](https://openbazaar.org/).
