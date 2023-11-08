@@ -2,7 +2,7 @@
 
 I'm Sam Patterson, a software developer with more than 10 years of experience in tech startups and non-profits. I'm currently diving deep into fullstack development at the General Assembly Software Engineering Immersive Bootcamp. 
 
-I've always have one foot in the tech world - working on technology policy in DC, co-founding a tech company (as a non-technical founder!) - but I wanted to be building new things instead of writing about them. Now, I can build them alongside others - maybe you!
+I've always had one foot in the tech world - working on technology policy in DC, co-founding a tech company (as a non-technical founder!) - but I wanted to be building new things instead of writing about them. Now, I can build them alongside others - maybe you!
 
 ### 🔭 **Projects I'm Proud Of**
   - [HaveWords.ai](https://github.com/SamPatt/HaveWords.ai): A p2p AI sharing site I built that allows users to join their friends and generate fiction/roleplay with an AI.
