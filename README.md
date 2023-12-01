@@ -6,6 +6,7 @@ I've always had one foot in the tech world - working on technology policy in DC,
 
 ### 🔭 **Projects I'm Proud Of**
   - [HaveWords.ai](https://github.com/SamPatt/HaveWords.ai): A p2p AI sharing site I built that allows users to join their friends and generate fiction/roleplay with an AI.
+  - [pawzbe.com](https://github.com/SamPatt/pawzbe): A pet social media platform. Alongside two other great developers from my General Assembly software engineering bootcamp we built this MEN-stack app in only two weeks.
   - [Close Encounters of the Cute Kind](https://github.com/SamPatt/close-encounters-of-the-cute-kind): A game built in a week that blends classic maze navigation with a space theme, leveraging AI assets.
 
 ### 🌱 **Currently Learning** 
