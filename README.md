@@ -7,6 +7,7 @@ I've always had one foot in the tech world - working on technology policy in DC,
 ### 🔭 **Projects I'm Proud Of**
   - [Auto-Component](https://github.com/TimHuitt/auto-component): A React Component published on npm which helps React developers build their UI using AI.
   - [HaveWords.ai](https://github.com/SamPatt/HaveWords.ai): A p2p AI sharing site I built that allows users to join their friends and generate fiction/roleplay with an AI.
+  - [Ailoquium](https://github.com/SamPatt/ailoquium): A game where you're a doctor treating a series of AI patients. Uses a Django backend to manage the OpenAI API calls, and a React frontend.
   - [pawzbe.com](https://github.com/SamPatt/pawzbe): A pet social media platform. Alongside two other great developers from my General Assembly software engineering bootcamp we built this MEN-stack app in only two weeks.
   - [Close Encounters of the Cute Kind](https://github.com/SamPatt/close-encounters-of-the-cute-kind): A game built in a week that blends classic maze navigation with a space theme, leveraging AI assets.
 
