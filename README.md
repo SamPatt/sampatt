@@ -11,8 +11,8 @@ I've always had one foot in the tech world - working on technology policy in DC,
   - [pawzbe.com](https://github.com/SamPatt/pawzbe): A pet social media platform. Alongside two other great developers from my General Assembly software engineering bootcamp we built this MEN-stack app in only two weeks.
   - [Close Encounters of the Cute Kind](https://github.com/SamPatt/close-encounters-of-the-cute-kind): A game built in a week that blends classic maze navigation with a space theme, leveraging AI assets.
 
-### 🌱 **Currently Learning** 
-I honed my skills in JavaScript, and I'm now diving into Python. I'm well-versed with Git, GitHub, and Linux. I've also become friends with the OpenAI API recently, having used it in multiple projects.
+### 🌱 **Skills & Currently Learning** 
+I honed my skills in JavaScript and Python, learning React and Django. I'm familiar with MongoDB and SQL (Postgres). I'm well-versed with Git, GitHub, Bitcoin, and Linux. I've also become friends with the OpenAI API recently, having used it in multiple projects, and now local AI models as well (using LMStudio mostly). I'm currently learning React Native.
 
 ### 👯 **Collaboration Interests** 
 Amateur radio, AI, and decentralization projects. I have prior experience working on decentralization with [OpenBazaar](https://github.com/OpenBazaar).
