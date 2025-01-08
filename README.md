@@ -1,6 +1,6 @@
 ### SamPatt
 
-I'm Sam Patterson, a software developer with more than 10 years of previous experience in tech startups and non-profits.
+I'm Sam Patterson, a software developer with experience in tech startups and non-profits.
 
 I've always had one foot in the tech world - working on technology policy in DC, co-founding a tech company - but I wanted to be building new things instead of writing about them. After graduating from General Assembly's immersive software engineering bootcamp, I can build them alongside others - maybe you!
 
@@ -14,7 +14,7 @@ I've always had one foot in the tech world - working on technology policy in DC,
   - [Close Encounters of the Cute Kind](https://github.com/SamPatt/close-encounters-of-the-cute-kind): A game built in a week that blends classic maze navigation with a space theme, leveraging AI assets.
 
 ### 🌱 **Skills & Currently Learning** 
-I honed my skills in JavaScript and Python, learning React and Django. I'm familiar with MongoDB and SQL (Postgres). I'm well-versed with Git, GitHub, Bitcoin, and Linux. I've also become friends with the OpenAI API recently, having used it in multiple projects, and now local AI models as well (using LMStudio mostly). I'm currently learning React Native.
+I honed my skills in JavaScript and Python, learning React and Django. I'm familiar with MongoDB and SQL (Postgres). I'm well-versed with Git, GitHub, Bitcoin, and Linux. I've also become friends with the OpenAI API recently, having used it in multiple projects, and now local AI models as well (using Ollama mostly). I'm currently learning React Native.
 
 ### 👯 **Collaboration Interests** 
 Amateur radio, AI, and decentralization projects. I have prior experience working on decentralization with [OpenBazaar](https://github.com/OpenBazaar).
