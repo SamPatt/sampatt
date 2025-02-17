@@ -6,6 +6,7 @@ I've always had one foot in the tech world - working on technology policy in DC,
 
 ### 🔭 **Projects I'm Proud Of**
 
+  - [StrapTo](https://github.com/SamPatt/strapto-server): A suite of apps designed to stream the output of self-hosted LLMs over WebRTC to browsers.
   - [LookMa](https://github.com/SamPatt/lookma): A React Native app built to connect locally-run LLM servers to mobile devices.
   - [LlamaTrivia](https://youtu.be/itk5oz_f27M?si=YXh4irrNuVmh1Brv): I wired up a trivia game to an LLM to see if it could beat my score (it did)
   - [Close Encounters of the Cute Kind](https://github.com/SamPatt/close-encounters-of-the-cute-kind): A game built in a week that blends classic maze navigation with a space theme, leveraging AI assets.
