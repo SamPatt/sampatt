@@ -8,6 +8,9 @@ I've always had one foot in the tech world - working on technology policy in DC,
 
   - [Agent Circus](https://github.com/SamPatt/agent-circus-client): A platform for users to connect local models using Ollama to a browser in order to join a live group AI session over WebRTC.
   - [FourNiner](https://github.com/SamPatt/FourNiner): A Geoguessr training tool that connects a browser with Google Street view locations to an Obsidian vault to easily create and train flashcards.
+
+![FourNiner](https://cdn.jsdelivr.net/gh/sampatt/media@main/gifs/fourniner_example.gif)    
+  
   - [StrapTo](https://github.com/SamPatt/strapto-server): A suite of apps designed to stream the output of self-hosted LLMs over WebRTC to browsers.
   - [LookMa](https://github.com/SamPatt/lookma): A React Native app built to connect locally-run LLM servers to mobile devices.
   - [LlamaTrivia](https://youtu.be/itk5oz_f27M?si=YXh4irrNuVmh1Brv): I wired up a trivia game to an LLM to see if it could beat my score (it did)
