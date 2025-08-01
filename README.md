@@ -6,7 +6,7 @@ I've always had one foot in the tech world - working on technology policy in DC,
 
 ### 🔭 **Projects I'm Proud Of**
 
-  - Agent Circus: A platform for users to connect local models using Ollama to a browser in order to join a live group AI session over WebRTC - currently private.
+  - [GG-GeoJSON](https://github.com/SamPatt/gg-geojson): A geography meta database and browser editing tool.
   - [FourNiner](https://github.com/SamPatt/FourNiner): A Geoguessr training tool that connects a browser with Google Street view locations to an Obsidian vault to easily create and train flashcards.
 
 ![FourNiner](https://cdn.jsdelivr.net/gh/sampatt/media@main/gifs/fourniner_example.gif)    
