@@ -1,7 +1,5 @@
 ### SamPatt
 
-Sam Patterson
-
 I'm Sam Patterson — a technical writer, developer advocate, and builder focused on open-source, AI, and privacy-preserving tools.
 
 After working in technology policy in DC and co-founding OpenBazaar I shifted from solely writing about technology to creating it. I now build small, experimental projects that explore how AI, decentralization, and human creativity intersect — and I write about what I learn along the way.
