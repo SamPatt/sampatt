@@ -1,8 +1,10 @@
 ### SamPatt
 
-I'm Sam Patterson, a software developer with experience in tech startups and non-profits.
+Sam Patterson
 
-I've always had one foot in the tech world - working on technology policy in DC, co-founding a tech company - but I wanted to be building new things instead of writing about them. After graduating from General Assembly's immersive software engineering bootcamp, I can build them alongside others - maybe you!
+I'm Sam Patterson — a technical writer, developer advocate, and builder focused on open-source, AI, and privacy-preserving tools.
+
+After working in technology policy in DC and co-founding OpenBazaar I shifted from solely writing about technology to creating it. I now build small, experimental projects that explore how AI, decentralization, and human creativity intersect — and I write about what I learn along the way.
 
 ### 🔭 **Projects I'm Proud Of**
 
@@ -28,6 +30,4 @@ Amateur radio, AI, and decentralization projects. I have prior experience workin
 
 ### ⚡ **Fun Facts**: 
   - Participated in the first HF radio transaction using Bitcoin (double nerd points!)
-  - Hobbies include fencing, curling, table tennis, chess, macrophotography, and rock climbing.
-
-Eager to continue my learning journey and collaborate on meaningful projects. Let's connect and build something cool together!
+  - Hobbies include Geoguessr, weightlifting, table tennis, chess, macrophotography, and rock climbing.
