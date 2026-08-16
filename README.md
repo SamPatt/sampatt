@@ -1,31 +1,40 @@
-### SamPatt
+## Sam Patterson
 
-I'm Sam Patterson — a technical writer, developer advocate, and builder focused on open-source, AI, and privacy-preserving tools.
+I build small, self-hosted tools, mostly around AI, privacy, and hardware I own. I write about what I learn at [sampatt.com](https://sampatt.com).
 
-After working in technology policy in DC and co-founding OpenBazaar I shifted from solely writing about technology to creating it. I now build small, experimental projects that explore how AI, decentralization, and human creativity intersect — and I write about what I learn along the way.
+Before that: technology policy in DC, then co-founding [OpenBazaar](https://github.com/OpenBazaar), a decentralized marketplace backed by Andreessen Horowitz and Union Square Ventures. I wrote one of the first books about Bitcoin, spent a stint as an Apart Labs Fellow doing AI safety research, and now work as a Technical Operations Specialist at MessageWrap.
 
-### 🔭 **Projects I'm Proud Of**
+### Lucy: a voice assistant for the Pebble Time 2
 
-  - [GG-GeoJSON](https://github.com/SamPatt/gg-geojson): A geography meta database and browser editing tool.
-  - [FourNiner](https://github.com/SamPatt/FourNiner): A Geoguessr training tool that connects a browser with Google Street view locations to an Obsidian vault to easily create and train flashcards.
+Three lanes behind one button: a deterministic parser that answers in 0.26s, a small model for what's already in the weights, and a full agent for everything else. Streaming mu-law audio over Bluetooth, durable jobs that survive the watch app closing, and a portrait drawn from an 8-colour palette.
 
-![FourNiner](https://cdn.jsdelivr.net/gh/sampatt/media@main/gifs/fourniner_example.gif)    
-  
-  - [StrapTo](https://github.com/SamPatt/strapto-server): A suite of apps designed to stream the output of self-hosted LLMs over WebRTC to browsers.
-  - [LookMa](https://github.com/SamPatt/lookma): A React Native app built to connect locally-run LLM servers to mobile devices.
-  - [LlamaTrivia](https://youtu.be/itk5oz_f27M?si=YXh4irrNuVmh1Brv): I wired up a trivia game to an LLM to see if it could beat my score (it did)
-  - [Close Encounters of the Cute Kind](https://github.com/SamPatt/close-encounters-of-the-cute-kind): A game built in a week that blends classic maze navigation with a space theme, leveraging AI assets.
+[![Lucy: A Voice Assistant for the Pebble Time 2](https://img.youtube.com/vi/cjOrSb7hUS8/maxresdefault.jpg)](https://youtu.be/cjOrSb7hUS8)
 
-### 🌱 **Skills & Currently Learning** 
-I honed my skills in JavaScript and Python, learning React, Node, Flask and Django. I'm familiar with MongoDB and SQL (Postgres). I'm well-versed with Git, GitHub, Bitcoin, and Linux. I've also become friends with the OpenAI, Anthropic, and Groq APIs recently, having used them in multiple projects, and now local AI models as well (using Ollama mostly). Many of my projects use WebRTC to connect browsers p2p.
+[Watch the video](https://youtu.be/cjOrSb7hUS8) · [Read the write-up](https://sampatt.com/lucy)
 
-### 👯 **Collaboration Interests** 
-Amateur radio, AI, and decentralization projects. I have prior experience working on decentralization with [OpenBazaar](https://github.com/OpenBazaar).
+### Other things I've built
 
-### 📫 **How to Reach Me** 
-[LinkedIn](https://www.linkedin.com/in/sampatt-dev/) | 📧 Email: [git@sampatt.com](mailto:git@sampatt.com)
+- **Patterkin** — a private family video platform. I digitized 122 Video8 tapes of childhood footage and built an HLS streaming site with per-person timelines, reactions, and comments, on Cloudflare R2 and Supabase. [Write-up](https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood)
+- **[GG-GeoJSON](https://github.com/SamPatt/gg-geojson)** — a geography meta dataset and browser editor.
+- **[FourNiner](https://github.com/SamPatt/FourNiner)** — GeoGuessr training tool that pipes Street View locations into an Obsidian vault as flashcards.
+- **[Shell-Recall](https://github.com/SamPatt/shell-recall)** — search and visualize your shell history as a timeline.
+- **[StrapTo](https://github.com/SamPatt/strapto-server)** — stream the output of self-hosted LLMs to browsers over WebRTC.
+- **[LookMa](https://github.com/SamPatt/lookma)** — React Native app connecting Android devices to locally-run LLM servers.
+- **[LlamaTrivia](https://github.com/SamPatt/wikitrivia-ai)** — I wired a trivia game to an LLM to see if it could beat my score. It did. ([video](https://youtu.be/itk5oz_f27M))
 
+### Writing
 
-### ⚡ **Fun Facts**: 
-  - Participated in the first HF radio transaction using Bitcoin (double nerd points!)
-  - Hobbies include Geoguessr, weightlifting, table tennis, chess, macrophotography, and rock climbing.
+- [o3 Beats a Master-Level GeoGuessr Player — Even with Fake EXIF Data](https://sampatt.com/blog/2025-04-28-can-o3-beat-a-geoguessr-master) — #1 on Hacker News
+- [My Grandma Was a Fed: Lessons from Digitizing Hundreds of Hours of Childhood](https://sampatt.com/blog/2025-12-13-my-grandma-was-a-fed-lessons-from-digitizing-hundreds-of-hours-of-childhood) — HN front page
+- [Visualizing Why Bitcoin Can't Work Over HF Radio](https://sampatt.com/blog/2025-11-08-visualizing-why-bitcoin-cant-work-over-hf-radio) — interactive visualizations
+- [Artificial Advocates: Biasing Democratic Feedback Using AI](https://github.com/SamPatt/artificial-advocates) — 3rd place, Apart hackathon; led to the fellowship
+
+### Tools
+
+Python and JavaScript day to day — React, Node, Flask, Django, Postgres, Linux, Git. WebRTC shows up in a lot of my projects. I use the Anthropic, OpenAI, and Groq APIs, and run local models with Ollama when the data shouldn't leave the house.
+
+### Elsewhere
+
+[sampatt.com](https://sampatt.com) · [LinkedIn](https://www.linkedin.com/in/sampatt-dev/) · [git@sampatt.com](mailto:git@sampatt.com)
+
+Interested in collaborating on amateur radio, AI, and decentralization projects. I participated in the first HF radio transaction using Bitcoin, and outside of work you'll find me playing GeoGuessr, lifting, or table tennis.
